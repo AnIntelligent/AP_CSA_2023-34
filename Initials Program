@@ -1,3 +1,4 @@
+//https://replit.com/@RadiantJoy/Initials-Program
 public class Name {
 	private String name;
 	public Name (String str) {
